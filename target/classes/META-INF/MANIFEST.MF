@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: Spring Boot REST API Demo
+Implementation-Version: 0.1
+Implementation-Vendor-Id: net.javabeat
+Build-Jdk: 1.7.0_79
+Built-By: 212587383
+Created-By: Maven Integration for Eclipse
+
